@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Contents',
         items: [
           { text: 'Source Changelog', link: '/src/changelog/changelog.md' },
           { text: 'Officially Supported Devices', link: '/src/devices/devices.md' }
