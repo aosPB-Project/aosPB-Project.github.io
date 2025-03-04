@@ -15,8 +15,8 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Changelog Placeholder', link: '/src/changelog' },
-          { text: 'Devices Placeholder', link: '/devices/devices' }
+          { text: 'Source Changelog', link: '/src/changelog/changelog.md' },
+          { text: 'Officially Supported Devices', link: '/src/devices/devices.md' }
         ]
       }
     ],
