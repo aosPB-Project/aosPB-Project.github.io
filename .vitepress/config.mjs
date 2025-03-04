@@ -23,6 +23,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aosPB-Project' }
-    ]
+    ],
+
+    footer: {
+      message: 'Made with 💔 by Sajid for aosPB-Project',
+    },
   }
 })
