@@ -12,7 +12,7 @@ hero:
       link: https://github.com/aospb-project
     - theme: alt
       text: Downloads
-      link: https://sourceforge.net/projects/aospb-project/files/
+      link: https://www.pling.com/p/2237652/
 
 features:
   - title: Devices
