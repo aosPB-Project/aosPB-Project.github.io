@@ -6,7 +6,7 @@
 
 ---
 
-**February-2025 Update - Phase 2:**
+::: details **February-2025 Update - Phase 1**
 ```
 - Extend versioning prefix to aospb_* for devices
 - Bring in new charging ripple 
@@ -17,8 +17,10 @@
 - [REDO] Conditionally disable gamma conversion for brightness slider
 - Added ongoing action progressbar chip implementation
 ```
+:::
 ---
-**February-2025 Update - Phase 1:**
+::: details **February-2025 Update - Phase 1**
 ```
 - Initial official release
 ```
+:::
