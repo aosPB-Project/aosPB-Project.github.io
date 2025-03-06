@@ -1,9 +1,24 @@
 import { defineConfig } from 'vitepress'
+import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "aosPB-Project",
   description: "A VitePress Site",
+  lang: 'en-US',
+  vite: {
+    plugins: [pagefindPlugin({
+        locales: {
+          root: {
+            btnPlaceholder: 'Search',
+            placeholder: 'Search AOSPB-Project Docs',
+            emptyText: 'No results found',
+            heading: 'Total: {{searchResult}} search results.',
+          },
+        },
+      }
+    )],
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
