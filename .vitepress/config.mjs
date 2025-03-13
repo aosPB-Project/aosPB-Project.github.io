@@ -3,6 +3,7 @@ import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lastUpdated: true,
   title: "aosPB-Project",
   description: "A VitePress Site",
   lang: 'en-US',
