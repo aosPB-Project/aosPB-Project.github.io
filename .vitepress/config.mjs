@@ -45,7 +45,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/aosPB-Project' }
+      { icon: 'github', link: 'https://github.com/aosPB-Project' },
+      { icon: 'telegram', link: 'https://t.me/aospb_chat' }
     ],
 
     footer: {
