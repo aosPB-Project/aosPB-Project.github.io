@@ -21,6 +21,13 @@ export default defineConfig({
     )],
   },
   themeConfig: {
+    lastUpdated: {
+      text: 'Last Garnished at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'short',
+      }
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
