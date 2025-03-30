@@ -12,7 +12,6 @@ export default defineConfig({
         locales: {
           root: {
             btnPlaceholder: 'Search',
-            placeholder: 'Search AOSPB-Project Docs',
             emptyText: 'No results found',
             heading: 'Total: {{searchResult}} search results.',
           },
@@ -31,7 +30,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Donate', link: 'https://buymeacoffee.com/sajid72543' }
+      { text: 'Donate', link: 'https://buymeacoffee.com/sajid72543' },
+      { text: 'Apply Official', link: 'https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/README.md'}
     ],
 
     sidebar: [
