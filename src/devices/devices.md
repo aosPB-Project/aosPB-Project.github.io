@@ -8,18 +8,18 @@
 
 ::: tip Pocophone F1 (beryllium)
 [Get the latest build](https://www.pling.com/p/2237652/) |
-[Changelogs](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.1/changelogs/devices/beryllium.md) |
-[Instructions](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.1/instructions/beryllium.md)
+[Changelogs](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/changelogs/devices/beryllium.md) |
+[Instructions](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/instructions/beryllium.md)
 :::
 
 ::: tip Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
 [Get the latest build](https://www.pling.com/p/2237652/) | 
-[Changelogs](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.1/changelogs/devices/miatoll.md) |
-[Instructions](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.1/instructions/miatoll.md)
+[Changelogs](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/changelogs/devices/miatoll.md) |
+[Instructions](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/instructions/miatoll.md)
 :::
 
 ::: tip Xiaomi Redmi K30 / POCO X2 (phoenix/phoenixin)
 [Get the latest build](https://www.pling.com/p/2237652/) |
-[Changelogs](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.1/changelogs/devices/phoenix.md) |
-[Instructions](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.1/instructions/phoenix.md)
+[Changelogs](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/changelogs/devices/phoenix.md) |
+[Instructions](https://github.com/aosPB-Project/aosPB_official_devices/blob/15.2/instructions/phoenix.md)
 :::

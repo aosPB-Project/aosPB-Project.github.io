@@ -6,6 +6,21 @@
 
 ---
 
+::: details **March-2025 Update**
+```
+- Based on latest QPR-2 Patch
+- Add support for device alert sliders.
+- Add option to cycle through ringer modes
+- Fix suspicious spaces around new mobile icons
+- Add configurable 0, 90, 180 and 270 degree rotation
+- Add Ongoing ProgressBar Chip toggle
+- Make battery icon clickable again
+- Re-Introduce wifi standard icon feature
+- Optimize navigation animations for seamless transitions and enhanced user experience.
+```
+:::
+---
+
 ::: details **February-2025 Update - Phase 1**
 ```
 - Extend versioning prefix to aospb_* for devices
